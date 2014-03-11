@@ -38,7 +38,7 @@ angular.module('AAuthentication', [])
 
 				// create the popup
 				var popupWidth  = screen.width / 2;
-				var popupHeight = screen.height - 200;
+				var popupHeight = screen.height / 2;
 				var popupLeft   = (screen.width / 2) - (popupWidth / 2);
 				var popupTop    = (screen.height / 2) - (popupHeight / 2);
 
