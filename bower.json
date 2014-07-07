@@ -1,8 +1,7 @@
 {
   "name": "angular-authentication",
-  "version": "0.1",
-  "main": "./src/angular-authentication.js",
   "dependencies": {
-    "angular": ">= 1.2.5"
+    "angular": "~1.2",
+    "bootstrap": "latest"
   }
 }

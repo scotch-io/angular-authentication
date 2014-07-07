@@ -1,0 +1,6 @@
+{
+	"name": "angular-authentication",
+	"dependencies": {
+		"express": "~4"
+	}
+}
